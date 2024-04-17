@@ -237,4 +237,3 @@ This project can extract videos from youtube based on chapters or a config file,
 - Some projects are private and can be shared on request.
 - Some work projects are sensitive and cannot be shared.
 - Some projects are incomplete, or missing modules etc due to the sensitivity of data.
-- 
