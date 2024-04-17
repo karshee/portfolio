@@ -191,7 +191,13 @@ This Terraform configuration manages AWS SSO access for a gaming studio's DBA te
 
 Adding grafana alerts based on metric expressions with terraform, with an associated github actions pipeline
 
-> 🔗[Repository Link](https://github.com/karshee/grafana_alerts "Repository link")
+> 🔗[Repository Link](https://github.com/karshee/grafana_alerts "Repository link") 
+
+## Github actions S3 archiving
+**HCL   -    S3     -   GITHUB ACTIONS     -     MAKE**
+
+A reusable GitHub Actions workflow utilizing Terraform for deploying and managing S3 buckets configured for data archiving across multiple AWS regions. The S3 buckets are set up with intelligent tiering to optimize costs according to access patterns.
+> 🔗[Repository Link](https://github.com/karshee/archive-s3-gh "Repository link")
 
 ## Personal Coding projects
 
